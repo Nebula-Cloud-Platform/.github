@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1508500141768970424/1508525193536995500/file_00000000576871f7b97a3c4be8d5f229.png?ex=6a15db11&is=6a148991&hm=44a4d677a64beac1159dd2a194acf25c613b343dedabbfd8fe8b23dbb9538122&" width="100%" />
+  <img src="https://cdn.discordapp.com/attachments/1508500141768970424/1508525193536995500/file_00000000576871f7b97a3c4be8d5f229.png?ex=6a15db11&is=6a148991&hm=44a4d677a64beac1159dd2a194acf25c613b343dedabbfd8fe8b23dbb9538122&" width="150%" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nebula-Cloud-Platform/.github/main/file_00000000576871f7b97a3c4be8d5f229.png" width="140" />
+  <img src="https://cdn.discordapp.com/attachments/1508500141768970424/1508525193050718248/file_000000004ff471f79a7b43e9ba2a8a37.png?ex=6a15db11&is=6a148991&hm=5c0c3447b42a1b2a217b78a31f8736c0c2f308c0b9192319b5a8b7c0a56cdc25&" width="140" />
 </p>
 <h1 align="eter">☁️ Nebula Cloud</h1>
 
