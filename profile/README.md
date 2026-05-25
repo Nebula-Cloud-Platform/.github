@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://i.imgur.com/YOURLOGO.png" width="120" />
+<img src="https://cdn.discordapp.com/attachments/1508500141768970424/1508525193536995500/file_00000000576871f7b97a3c4be8d5f229.png?ex=6a15db11&is=6a148991&hm=44a4d677a64beac1159dd2a194acf25c613b343dedabbfd8fe8b23dbb9538122&" width="120" />
 
 # ☁️ Nebula Cloud
 
